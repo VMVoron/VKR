@@ -411,19 +411,6 @@ text[5]
 
 
 
-
-```python
-len(text)
-```
-
-
-
-
-    500
-
-
-
-
 ```python
 COUNT*ITERS
 ```
